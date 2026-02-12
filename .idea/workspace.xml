@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59a3c39b-3cc5-4c0f-916e-1938f4df4da5" name="Changes" comment="" />
+    <list default="true" id="59a3c39b-3cc5-4c0f-916e-1938f4df4da5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/epicTank/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/epicTank/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epicTank/botStrategyBackup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/epicTank/botStrategyBackup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epicTank/epicTank.sln" beforeDir="false" afterPath="$PROJECT_DIR$/epicTank/epicTank.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/epicTank/readmeBackupInstructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/epicTank/readmeBackupInstructions.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
