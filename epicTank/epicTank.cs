@@ -22,12 +22,13 @@ public class epicTank : Bot
 
     public override void Run()
     {
+
         // movement and radar logic goes here
         while (IsRunning)
         {
             // --- Radar: continuously sweep in one direction ---
             // Turn the radar a modest step; reversing is handled in OnScannedBot
-            TurnGunRight(10); // Scans automatically as radar is mounted on gun
+            SetTurnRadarLeft(double.PositiveInfinity);
 
             // Set colors
             BodyColor = Color.Green;
@@ -46,7 +47,8 @@ public class epicTank : Bot
             {
                 Back(moveDistance);
             }
-        }  
+            Execute();
+        }
     }
 
     // We collided with a wall -> reverse the direction
